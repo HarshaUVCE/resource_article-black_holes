@@ -18,4 +18,4 @@ Black holes don’t emit or reflect light, making them effectively invisible to 
 * Wormholes. They don’t provide shortcuts between different points in space, or portals to other dimensions or universes.
 * Cosmic vacuum cleaners. Black holes don’t suck in other matter. From far enough away, their gravitational effects are just like those of other objects of the same mass.
 
-![Black Hole](black_hole.webp)
+![Black Hole](black-hole.jpg)
